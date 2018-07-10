@@ -1,17 +1,17 @@
 {
   "users": {
     "07/09": [{
-        "name": "Nirmal Krishna",
-        "emailID": "nirmal.k@orioninc.com"
+        "name": "John doe",
+        "emailID": "user1@domain.com"
       },
       {
         "name": "Shiva",
-        "emailID": "nirmal.k@orioninc.com"
+          "emailID": "user2@domain.com"
       }
     ],
     "07/10": [{
       "name": "Shashank Vega",
-      "emailID": "nirmal.k@orioninc.com"
+        "emailID": "user3@domain.com"
     }]
   }
 }
