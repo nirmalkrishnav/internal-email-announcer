@@ -1,0 +1,17 @@
+{
+  "users": {
+    "07/09": [{
+        "name": "Nirmal Krishna",
+        "emailID": "nirmal.k@orioninc.com"
+      },
+      {
+        "name": "Shiva",
+        "emailID": "nirmal.k@orioninc.com"
+      }
+    ],
+    "07/10": [{
+      "name": "Shashank Vega",
+      "emailID": "nirmal.k@orioninc.com"
+    }]
+  }
+}
